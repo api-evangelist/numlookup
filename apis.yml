@@ -39,7 +39,6 @@ apis:
   - name: Numlookup
     description: "Phone number validation and carrier lookup API with global coverage"
     humanURL: https://numlookupapi.com
-    baseURL: https://numlookupapi.com
     tags:
       - Phone
     properties:
